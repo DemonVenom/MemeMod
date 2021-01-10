@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "mcmememod",
+  "version": "${version}",
+
+  "name": "Meme Mod",
+  "description": "Just an elaborate shitpost",
+  "authors": [
+    "DemonVenom"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/DemonVenom/MemeMod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mcmememod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.demonvenom.mememod.MemeMod"
+    ]
+  },
+  "mixins": [
+    ""
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
