@@ -8,7 +8,7 @@ Currently has:
 1. Irony (as a vital component of crafting recipes for memes)
 2. Shaggy's Power (use his fist as a weapon)
 3. Drip Crafting Materials (use to make Drip Goku Armor)
-4. Drip Goku(use his clothing as armour)
+4. Drip Goku (use his clothing as armour)
 
 ## License
 
